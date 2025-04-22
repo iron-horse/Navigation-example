@@ -19,3 +19,11 @@ Create a simple, minimalist navigation bar based on the video example and use th
 Display the current time of the selected city.
 
 You have creative license on how this should look and behave.
+
+
+## SETUP:
+
+- Download the repo
+- Should already have NodeJS installed.
+- Run `npx http-server` for a quick node JS based Http Server.
+- It may prompt you to install `http-server` package.
